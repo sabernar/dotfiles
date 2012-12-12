@@ -1,3 +1,20 @@
+" My personal key remappings
+nnoremap <silent> <C-right> 3<C-w>>
+nnoremap <silent> <C-left> 3<C-w><
+nnoremap <silent> <C-up> 3<C-w>+
+nnoremap <silent> <C-down> 3<C-w>-
+
+nnoremap <silent> <C-j> <C-w>j
+nnoremap <silent> <C-k> <C-w>k
+nnoremap <silent> <C-l> <C-w>l
+nnoremap <silent> <C-h> <C-w>h
+
+noremap <silent> <C-n> :bn<CR>
+noremap <silent> <C-p> :bp<CR>
+
+" Share clipboard with window systems
+set clipboard=unnamed
+
 " Make vim more useful
 set nocompatible
 " Enhance command-line completion
