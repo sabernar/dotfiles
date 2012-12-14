@@ -8,3 +8,6 @@ termcapinfo xterm* ti@:te@
 
 # Change escape key to Ctrl-j
 escape ^Jj
+
+# <C-j><C-j> to move next window
+bind ^J next
