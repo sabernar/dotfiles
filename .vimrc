@@ -1,3 +1,4 @@
+colorscheme desert
 " My personal key remappings
 nnoremap <silent> <C-right> 3<C-w>>
 nnoremap <silent> <C-left> 3<C-w><
